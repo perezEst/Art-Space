@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="tituloObra1">Las meninas</string>
+    <string name="tituloObra2">La joven de la perla</string>
+    <string name="tituloObra3">El beso</string>
+    <string name="tituloObra4">La Mona Lisa</string>
+    <string name="DescripObra1">Diego Velázquez (1656)</string>
+    <string name="DescripObra2">Johannes Vermeer (1665)</string>
+    <string name="DescripObra3">Gustav Klimt (1908-1909)</string>
+    <string name="DescripObra4">Leonardo da Vinci (1503-1519)</string>
+</resources>
